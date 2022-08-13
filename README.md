@@ -36,3 +36,6 @@ List fitur:
 	- peluru musuh jika kena batas bawah, ancur (nonaktif)
 - Musuh ketika mentok kiri/kanan: maka akan turun ke bawah 1 baris, speednya nambah (termasuk interval nembak), berjalan lawan arah sebelumnya
 - Setiap level baru, musuh turun 1 baris dari baris teratas dia spawn sebelumnya
+
+## Assets used
+https://itch.io/c/2701207/space-invader
